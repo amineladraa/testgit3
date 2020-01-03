@@ -4,7 +4,7 @@ public class testgit3 {
 	
 	while(fatigué)
 	{
-		se plaindre;
+		se plaindre
 	}
 
 }
