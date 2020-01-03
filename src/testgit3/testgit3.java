@@ -7,8 +7,8 @@ public class testgit3 {
 		se plaindre;
 		corriger;
 		tester;
-		
-	
+		manger des moules; 
+		fix;
 	}
 
 }
